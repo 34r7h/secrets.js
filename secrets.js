@@ -23,7 +23,7 @@
         // AMD. Register as an anonymous module.
         define([], function() {
             /*eslint-disable no-return-assign */
-            return (root.secrets = factory())
+            return (root.secrets = factory(window.crypto))
             /*eslint-enable no-return-assign */
         })
     } else if (typeof exports === "object") {
