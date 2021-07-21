@@ -1,3 +1,5 @@
+Forked from https://github.com/grempe/secrets.js since project seems abandoned and needed a change to allow imports to browser.
+
 # secrets.js
 
 - [What is it?](#what-is-it)
