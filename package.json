@@ -1,6 +1,6 @@
 {
     "name": "secrets.js-34r7h",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Shamir's threshold secret sharing scheme for JavaScript.",
     "main": "secrets.js",
     "directories": {
@@ -27,7 +27,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/grempe/secrets.js.git"
+        "url": "https://github.com/34r7h/secrets.js.git"
     },
     "keywords": [
         "secret",
@@ -38,12 +38,13 @@
     ],
     "author": "Alexander Stetsyuk <alexstets@gmail.com>",
     "contributors": [
-        "Glenn Rempe <glenn@rempe.us>"
+        "Glenn Rempe <glenn@rempe.us>",
+        "34r7h"
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/grempe/secrets.js/issues"
+        "url": "https://github.com/34r7h/secrets.js/issues"
     },
-    "homepage": "https://github.com/grempe/secrets.js",
+    "homepage": "https://github.com/34r7h/secrets.js",
     "typings": "./secrets.js.d.ts"
 }
